@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aaron Djangmah</h1>
-<h3 align="center">Ready to learn</h3>
+<h3 align="center">Ready to learn and Ready for Projects and Collabs</h3>
 
 <p align="left"> <a href="https://twitter.com/djangzzz" target="blank"><img src="https://img.shields.io/twitter/follow/djangzzz?logo=twitter&style=for-the-badge" alt="djangzzz" /></a> </p>
 
-- 🌱 I’m currently learning **Python and Java**
+- 🌱 Python and Java | Flutter Developer
 
 - 📫 How to reach me **djangsiness01@gmail.com**
 
