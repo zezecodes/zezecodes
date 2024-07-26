@@ -23,8 +23,6 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" alt="flutter" width="40" height="40"/> </a> 
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APHP-logo.svg&psig=AOvVaw0UjRmdSlB5hm5CX9mNeIg8&ust=1722079956196000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjzvvTNxIcDFQAAAAAdAAAAABAE" alt="PHP" width="40" height="40"/> </a> 
-
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_9d63a0ed04b871d3dacc8647b7f0927d/spring-boot.png" alt="flutter" width="40" height="40"/> </a> 
 </p>
 
