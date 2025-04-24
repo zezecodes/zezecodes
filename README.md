@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/djangzzz" target="blank"><img src="https://img.shields.io/twitter/follow/djangzzz?logo=twitter&style=for-the-badge" alt="djangzzz" /></a> </p>
 
-- Backend - Django | Springboot | Laravel
-- Mobile - Flutter | Swift
-- Languages - Python | Java | Dart | PHP | Swift
+- Backend - Laravel | Springboot
+- Mobile - Flutter
+- Languages - Python | Java | Dart | PHP 
 
 
 - 📫 How to reach me **djangsiness01@gmail.com**
